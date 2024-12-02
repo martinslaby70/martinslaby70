@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I am a Senior Frontend Developer at Omnetic.com. My role involves managing technical debt, prioritising tasks, and guiding the project's technical direction. I balance coding (60%) with leadership (40%) and am transitioning into a technical lead role. I focus on mentoring junior developers and improving our tooling, processes, and platform development to ensure project success.
+Hi there, I am a Senior Frontend Developer at Omnetic.com. My role involves managing technical debt, prioritising tasks, and guiding the project's technical direction. I balance coding (60%) with leadership (40%) and am slowly transitioning into a technical lead role. I focus on mentoring junior developers and improving our tooling, processes, and platform development to ensure project success.
 
 
 ## 🌐 Socials:
